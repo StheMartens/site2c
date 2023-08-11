@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+.foto{
+    width: 500px;
+}
+
+
+.Foto-aluno{
+    width: 250px;
+}
+
+body {
+    background-color: #6F61C0;
+    font-family: 'Playfair Display', serif;
+}
+
+.todososestudantes {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#titulo-principal {
+    text-align: center;
+}
+
+.primeiraparte {
+    text-align: center;
+}
+
+.quemsao {
+    text-align: center;
+}
+
+.primeiraparte p {
+    font-family: 'Playfair Display', serif;
+}
